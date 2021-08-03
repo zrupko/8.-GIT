@@ -3,5 +3,5 @@ function init() {
 }
 
 function newsletter() {
-  console.log("Abonniert!");
+  console.log("Newsletter abonniert!");
 }
