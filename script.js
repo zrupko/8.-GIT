@@ -11,3 +11,7 @@ function feature() {
   console.log("Cool feature!");
   console.log("Noch coooool feature!");
 }
+
+function newFeature() {
+  console.log("new");
+}
