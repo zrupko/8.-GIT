@@ -14,3 +14,7 @@ function feature() {
 function newFeature() {
   console.log("new");
 }
+
+function newFunction() {
+  console.log("New ff");
+}
