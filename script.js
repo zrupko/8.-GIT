@@ -1,5 +1,6 @@
 function init() {
   console.log("Los geht's!");
+  console.log("Daten geladen");
 }
 
 function newsletter() {
