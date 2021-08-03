@@ -8,10 +8,13 @@ function newsletter() {
 }
 
 function feature() {
-  console.log("Cool feature!!!!");
-  console.log("Noch coooool feature!");
+  console.log("Very Cool feature!!!!");
 }
 
 function newFeature() {
   console.log("new");
+}
+
+function newFunction() {
+  console.log("New ff");
 }
